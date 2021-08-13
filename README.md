@@ -1,3 +1,3 @@
 # Signals
 
-This is a fork with SPM of Telegram SSignalKit
+This is SwiftSignalKit with Swift Package Manager, for of Telegram SSignalKit
